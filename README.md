@@ -6,9 +6,27 @@ A simple Tic-Tac-Toe game built with Electron.js.
 - Classic Tic-Tac-Toe gameplay.
 - Built with Electron for desktop.
 
-## Download
-[click here to download](./installer/TicTacToe.exe)
-   - Run the `.exe` file and start playing!
+## Setup
+
+- clone this repo
+```
+https://github.com/tahsinzidane/tic-Tactics.git
+```
+
+- Install dependencies
+```
+npm install
+or
+yarn add
+```
+- Run the program
+```
+npx electron .
+```
+ - Or run dist
+ ```
+ npm run dist
+ ```
 
 ## License
 This project is licensed under the ISC License.
